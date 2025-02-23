@@ -7,7 +7,7 @@ I'm HONFOGA OLUWABORIOTA TEMITAYO, a passionate Software Developer who loves to 
 <ul>
   <li>💻 HTML, CSS AND JAVASCRIPT</li>
   <li>How to reach me
-    <a herf="honfogatemitayo@gmail.com">honfogatemitayo@gmail.com</a>
+  <p for="email" > honfogatemitayo@gmail.com</p>
   </li>
   
 </ul>
