@@ -10,8 +10,11 @@ I'm a Computer Science student and aspiring Mobile App Developer based in Nigeri
 🛠 Tech Stack
 
 Mobile: Flutter, Dart
+<br>
 Frontend: HTML, CSS, JavaScript
+<br>
 Backend: Python
+<br>
 Tools: Git, GitHub, VS Code, Firebase
 
 📱 Projects
