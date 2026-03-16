@@ -1,15 +1,23 @@
-<h2>HI THERE 👋🏼</h2>
+<h2>Hi, I'm Temitayo Honfoga 👋</h2>
 <h2> WELCOME TO MY GITHUB PROFILE </h2>
 <br>
 
-I'm HONFOGA OLUWABORIOTA TEMITAYO,  
-Enthusiastic and detail-oriented Computer Science student with a strong foundation in Java programming, data structures, and software development. Passionate about cloud computing and eager to gain hands-on experience with Amazon web services. Interested in learning how to deploy, manage, and optimize scalable applications in cloud environments. I'm always eager to learn new things and take on exciting challenges. I’m looking to collaborate on opensource projects, hackathons and anything that involves building actively.
+I'm a Computer Science student and aspiring Mobile App Developer based in Nigeria, currently building my skills in Flutter and Dart.
+🔭 I'm currently learning Flutter and building my first mobile apps
+🌱 I'm deepening my knowledge in Dart, Firebase, and UI design
+💡 I'm interested in building mobile solutions for everyday African problems
+🎯 My goal is to build real apps that real people use
+🛠 Tech Stack
 
-<h2>SKILLS AND EXPERIENCE</h2>
-<ul>
-  <li>💻 HTML, CSS AND JAVASCRIPT</li>
-  <li>How to reach me
-  <p for="email" > honfogatemitayo@gmail.com</p>
-  </li>
-  
+Mobile: Flutter, Dart
+Frontend: HTML, CSS, JavaScript
+Backend: Python
+Tools: Git, GitHub, VS Code, Firebase
+
+📱 Projects
+Coming soon — currently building...
+📫 Let's Connect
+
+Email: honfogatemitayo@gmail.com
+
 </ul>
